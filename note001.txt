@@ -1,0 +1,10 @@
+i am writing a file in the interface of the github website
+recently it appears that github was purchased by microsoft
+they end up buying a lot of things
+i guess they see the future value
+
+anyways we will be trying our best
+to interact with github
+solely through the web interface and the git.exe file
+
+im going to save the file now
